@@ -1,1 +1,1 @@
-start file anime
+set volume to 50

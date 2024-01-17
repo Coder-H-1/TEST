@@ -1,1 +1,1 @@
-volume-set<<60
+App-start com.instagram.lite Instagram.Lite

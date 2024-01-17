@@ -1,1 +1,1 @@
-set volume to 60
+start instagram

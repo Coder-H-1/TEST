@@ -1,1 +1,1 @@
-{phone} start chrome
+{phone} set volume to 50

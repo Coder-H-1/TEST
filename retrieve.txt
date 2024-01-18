@@ -1,1 +1,1 @@
-wifi off
+App-start<<com.android.chrome<<Chrome

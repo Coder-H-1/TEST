@@ -1,1 +1,1 @@
-{phone} play a song
+{phone} wikipedia search android

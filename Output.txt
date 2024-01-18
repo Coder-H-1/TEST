@@ -1,1 +1,1 @@
-{phone} battery percentage
+{phone} hello

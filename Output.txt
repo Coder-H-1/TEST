@@ -1,1 +1,1 @@
-{phone} how are you
+{phone} hello

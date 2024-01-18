@@ -1,1 +1,1 @@
-volume-set<<50
+bluetooth on

@@ -1,1 +1,1 @@
-{phone} wikipedia search Android
+{phone} start chrome

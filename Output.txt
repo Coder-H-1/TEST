@@ -1,1 +1,1 @@
-{phone} hello
+{phone} Wikipedia search android

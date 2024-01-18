@@ -1,1 +1,1 @@
-{phone} set volume to 50
+{phone} laptop battery

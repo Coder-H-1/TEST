@@ -1,1 +1,1 @@
-bluetooth on
+wifi on

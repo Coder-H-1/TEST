@@ -1,1 +1,1 @@
-https://www.google.com/search?q={phone} Android
+https://www.google.com/search?q={phone}+Android+

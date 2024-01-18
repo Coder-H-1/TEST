@@ -1,1 +1,1 @@
-{phone} bluetooth on
+{phone} hello

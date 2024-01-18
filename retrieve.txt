@@ -1,1 +1,1 @@
-call-intent<<9368098976
+wifi off

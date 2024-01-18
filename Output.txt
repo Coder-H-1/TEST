@@ -1,1 +1,1 @@
-{phone} youtube play playlist
+{phone} set volume to 50

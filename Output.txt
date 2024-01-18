@@ -1,1 +1,1 @@
-{phone} call sis
+{phone} wifi off

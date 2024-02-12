@@ -1,1 +1,1 @@
-play a song
+{phone} play a song

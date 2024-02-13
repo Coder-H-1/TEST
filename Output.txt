@@ -1,1 +1,1 @@
-wifi off
+{phone} play a song

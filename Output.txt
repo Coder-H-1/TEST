@@ -1,1 +1,1 @@
-{phone} play a old song
+start chess

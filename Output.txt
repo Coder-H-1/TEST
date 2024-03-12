@@ -1,1 +1,1 @@
-{phone} hello heh
+{phone} hello

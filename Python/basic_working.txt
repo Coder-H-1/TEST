@@ -1,0 +1,29 @@
+aibohphobia     <-- a palindrome
+['a', 'i' , 'b', 'o', 'h' , 'p' , 'h' , 'o' , 'b' , 'i' , 'a']
+  ^                                                        ^ 
+  |                                                        | 
+pointer_1                                               pointer_2
+    --->                                                 <-----
+    +1                                                     -1
+
+if pointer_1 == pointer_2 
+    ptr1 += 1
+    ptr2 -= 1
+
+['a', 'i' , 'b', 'o', 'h' , 'p' , 'h' , 'o' , 'b' , 'i' , 'a']
+       ^                                             ^
+       |                                             |                                                        
+   pointer_1                                    pointer_2 
+
+   and so on
+
+## UNLESS
+    -> the number of pointers is same ; is the middle 
+    -> any error occurs
+    -> pointers does not match
+    ---> It is NOT a palindrome.
+
+## UNTILL
+    -> all the pointers are same ; returns 1 
+    -> the number of pointers is same ; is the middle
+    ---> It IS a palindrome.

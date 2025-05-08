@@ -32,4 +32,5 @@ def main() -> str:
             return "No!, it is not a palindrome"
     except ValueError:
         return "YES!, It is a palindrome!."
+        
 print(main())

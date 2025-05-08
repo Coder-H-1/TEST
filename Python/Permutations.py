@@ -18,4 +18,15 @@ def Permutation():
             factorial(int(N)) / factorial(int(N)-int(r))
             )
 
-Permutation()
+
+
+##### PERMUTATION using Lambda ######
+
+def factorials(N:int):
+    if N < 2:
+        return 1
+    else:
+        return N * ( factorials( N-1 ))
+
+x = lambda a, b : factorials(a) / factorials(a-b)
+print( x(3,3) )
